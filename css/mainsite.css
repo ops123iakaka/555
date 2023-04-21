@@ -1,0 +1,274 @@
+.pirveli {
+    min-height: 1000px;
+    
+    background-image: url(../img/Zhang-Yiwei-CGI-women-short-hair-purple-hair-blue-eyes-2185487-wallhere\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: nino;
+    src: url(../font/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Unbounded', cursive;
+    src: url(../fonts/Unbounded-VariableFont_wght.ttf);
+}
+
+.fonti {
+    font-family: 'Unbounded', cursive;
+    padding: 20px;
+   font-size: 25px;
+   font-size: 16px;
+  
+    
+}
+@media (max-width:3840px) and (min-width:992px){
+    .xazi{
+    border-bottom: 2px solid #ffff;
+}
+.jalag {
+    width: 320px;
+    height: 234px;
+    line-height: 39px;
+    margin-right: 120px;
+}
+.nazi:hover{
+    border-bottom: 2px solid #ffff;
+}
+.damtavrebaio{
+    margin-top: 100px;
+    margin-right: -200px;
+}
+.damtavrebaii{
+    margin-top: 100px;
+}
+}
+
+
+.teqsti {
+  margin-top: 150px;
+  margin-bottom: 200px;
+}
+.sicxe {
+  font-size: 65px;
+
+}
+.isari {
+    
+    color: #fff;
+    margin-left: 42px;
+}
+.isari2 {
+    
+    color: #fff;
+    margin-left: 28px;
+}
+
+
+
+.shesva {
+    font-family: 'Unbounded', cursive;
+    flex: none;
+    padding: 15px 39px;
+    gap: 10px;
+    width: 160px;
+    height: 52px;
+    background: #FFFFFF;
+    
+}
+@media (max-width:992px) {
+    .xazi {
+        text-decoration: none;
+    }
+    .teqsti {
+        margin-top: 200px;
+    }
+    .isari{
+        margin-left: 27px;
+       
+    }
+    .isari2{
+        margin-left: 27px;
+       
+    }
+    .pirveli {
+        min-height: 1500px;
+    }
+    .shesva {
+        margin-left: -1px;
+        width: 160px;
+        height: 55px;
+    }
+    .pito {
+        display: flex;
+        justify-content: center;
+    }
+
+  .aies {
+    width: 320px;
+    height: 234px;
+    
+    margin-left: -10px;
+}
+.iasona {
+    width: 900px;
+    height: 200px;
+}
+.damtavrebaio{
+    margin-left: 100px;
+    width: 110px;
+ 
+}
+.damtavrebaii{
+    margin-left: 100px;
+    width: 108px;
+    
+}
+.damtavrebai{
+    width: 68px;
+}
+    
+}
+
+@media (max-width:412px) {
+    .gio {
+    box-sizing: border-box;
+    width: 300px !important;
+    height: 537px;
+    border: 3px solid #E15CF2;
+    
+    }
+    .luka {
+    box-sizing: border-box;
+    width: 300px !important;
+    height: 537px;
+    border: 3px solid #6892FF;
+    }
+
+}
+ul li{
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+a:hover{
+    color: #fff;
+}
+.discoveri {
+    background-color : rgba(86, 4, 173, 1);
+
+}
+.meore {
+    min-height: 3500px;
+    background: linear-gradient(180deg, #060307 23.04%, #090A26 55.93%);
+    border:  1px  solid #502356;
+
+}
+
+.mesame {
+    min-height: 420px;
+    background:  #090A26 ;
+    border: 1px solid rgba(80, 35, 86, 1)
+}
+.testi {
+    color: rgba(255, 255, 255, 1);
+    
+}
+.taaata {
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 169px;
+
+}
+
+.gio{
+    box-sizing: border-box;
+    width: 386px;
+    height: 537px;
+    border: 3px solid #E15CF2;
+}
+
+.gurami {
+    flex: none;
+    padding: 13px 33px;
+    gap: 10px;
+    width: 220px;
+    height: 48px;
+    background: #5604AD;
+
+}
+.gurama {
+    padding: 13px 33px;
+    width: 194px;
+    height: 48px;
+    background: #FFFFFF;
+}
+.luka {
+    box-sizing: border-box;
+    width: 386px;
+    height: 537px;
+    border: 3px solid #6892FF;
+}
+.shuala {
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.asdfd {
+    
+    margin-left: 80px;
+    margin-top: 90px;
+}
+.gogona {
+    background-image: url(../img/artwork-glasses-glowing-cyberpunk-Cyberpunk-2077-looking-at-viewer-1897613-wallhere\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;    
+}
+
+.iasona {
+  
+    padding: 12px 20px;
+    gap: 10px;
+    width: 220px;
+    height: 48px;
+    background: #5604AD;
+}
+.meotxe {
+    min-height: 80px;
+    background:  #090A26 ;
+}
+.damtavreba{
+    margin-top: 100px;
+}
+.aiconi{
+    margin-left: 45px;
+}
+.damtavrebai{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.damtavrebaio{
+    margin-top: 100px;
+}
+.damtavrebaii{
+    margin-top: 100px;
+}
+.esec {
+    background-color: red;
+}
+.witeli{
+    background-color: red;
+}

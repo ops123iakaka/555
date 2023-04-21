@@ -1,0 +1,174 @@
+.pirveli {
+    min-height: 1000px;
+    background-image: url(../img/digital-art-artwork-illustration-city-cityscape-night-2178067-wallhere\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: nino;
+    src: url(../font/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Unbounded', cursive;
+    src: url(../fonts/Unbounded-VariableFont_wght.ttf);
+}
+.fonti {
+    font-family: 'Unbounded', cursive;
+    padding: 20px;
+font-size: 25px;
+font-size: 16px;
+
+    
+}
+@media (max-width:3840px) and (min-width:992px){
+    .xazi{
+    border-bottom: 2px solid #ffff;
+}
+.nazi:hover{
+    border-bottom: 2px solid #ffff;
+}
+.damtavrebaio{
+    margin-top: 100px;
+    margin-right: -200px;
+}
+.damtavrebaii{
+    margin-top: 100px;
+}
+
+}
+.isari {
+    
+    color: #fff;
+    margin-left: 42px;
+}
+.isari2 {
+    
+    color: #fff;
+    margin-left: 28px;
+}
+.shesva {
+    font-family: 'Unbounded', cursive;
+    flex: none;
+    padding: 15px 39px;
+    gap: 10px;
+    width: 160px;
+    height: 52px;
+    background: #FFFFFF;    
+}
+.gurami {
+    padding: 13px 33px;
+    gap: 10px;
+    width: 220px;
+    height: 48px;
+    background: rgba(126, 16, 179, 1);
+    
+}
+@media (max-width:992px) {
+    .xazi {
+        text-decoration: none;
+    }
+    .isari{
+        margin-left: 27px;
+    
+    }
+    .isari2{
+        margin-left: 27px;
+    
+    }
+    .pirveli {
+        min-height: 1500px;
+    }
+    .shesva {
+        margin-left: -1px;
+        width: 160px;
+        height: 55px;
+    }
+    .damtavrebaio{
+        margin-left: 100px;
+        width: 110px;
+    
+    }
+    .damtavrebaii{
+        margin-left: 100px;
+        width: 108px;
+        
+    }
+    .damtavrebai{
+        width: 68px;
+    }
+}
+ul li{
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+a:hover{
+    color: #fff;
+}
+
+.sicxe{
+    font-size: 36px;
+    color: #fff;
+    margin-top: 200px;
+}
+.aiituiaai{ 
+    background: #EEEEEE;
+    width: 507px;
+    height: 50px;
+    border-radius: 2px;
+    
+}
+.asdfgh{
+    
+    width: 507px;
+    justify-content: center;
+    height: 180px;
+}
+.esec {
+    background-color: red;
+}
+.witeli{
+    background-color: red;
+}
+.meore{
+    min-height: 130px;
+    background: #090A26;
+    border: 1px solid rgba(80, 35, 86, 1)
+}
+.mesame{
+    min-height: 420px;
+    background: #090A26;
+    border: 1px solid rgba(80, 35, 86, 1)
+}
+.meotxe {
+    min-height: 74px;
+    background: #090A26;
+}
+.damtavreba{
+    margin-top: 100px;
+}
+.aiconi{
+    margin-left: 45px;
+}
+.damtavrebai{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.damtavrebaio{
+    margin-top: 100px;
+}
+.damtavrebaii{
+    margin-top: 100px;
+}

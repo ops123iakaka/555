@@ -1,0 +1,214 @@
+.pirveli {
+    min-height: 1000px;
+    
+    background-image: url(../img/cyberpunk-neon-girl_1565054393\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: nino;
+    src: url(../font/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Unbounded', cursive;
+    src: url(../fonts/Unbounded-VariableFont_wght.ttf);
+}
+
+.fonti {
+    font-family: 'Unbounded', cursive;
+    padding: 20px;
+   font-size: 25px;
+   font-size: 16px;
+  
+    
+}
+@media (max-width:3840px) and (min-width:992px){
+    .xazi{
+    border-bottom: 2px solid #ffff;
+    }
+    .jalag {
+        width: 465px;
+        height: 467px;
+        line-height: 39px;
+        margin-right: 120px;
+    }
+    .auuuuu {
+        width: 465px;
+        height: 467px;
+        line-height: 39px;
+        margin-right: 120px;       
+    }
+    .nazi:hover{
+        border-bottom: 2px solid #ffff;
+    }
+    .damtavrebaio{
+        margin-top: 100px;
+        margin-right: -200px;
+    }
+    .damtavrebaii{
+        margin-top: 100px;
+    }
+    
+}
+
+
+.isari {
+    
+    color: #fff;
+    margin-left: 42px;
+}
+.isari2 {
+    
+    color: #fff;
+    margin-left: 28px;
+}
+
+.shesva {
+    font-family: 'Unbounded', cursive;
+    flex: none;
+    padding: 15px 39px;
+    gap: 10px;
+    width: 160px;
+    height: 52px;
+    background: #FFFFFF;
+    
+}
+
+.iasona {
+  
+    padding: 12px 20px;
+    gap: 10px;
+    width: 220px;
+    height: 48px;
+    background: #5604AD;
+}
+.teqsti {
+    display: flex;
+    justify-content: end;
+    margin-top: 100px;
+   
+  }
+
+  .gurami {
+ 
+    padding: 13px 33px;
+    gap: 10px;
+    width: 220px;
+    height: 48px;
+    background: #5604AD;
+
+}
+
+@media (max-width:992px) {
+
+    .isari{
+        margin-left: 27px;
+       
+    }
+    .isari2{
+        margin-left: 27px;
+       
+    }
+
+
+    .shesva {
+        margin-left: -1px;
+        width: 160px;
+        height: 55px;
+    }
+    .teqsti {
+        margin-top: 200px;
+    }
+    .archili{
+        opacity: 0;
+    }
+    .damtavrebaio{
+        margin-left: 100px;
+        width: 110px;
+     
+    }
+    .damtavrebaii{
+        margin-left: 100px;
+        width: 108px;
+        
+    }
+    .damtavrebai{
+        width: 68px;
+    }
+    
+}
+.meore {
+    min-height: 150px;
+    background: #090A26;
+
+}
+.mesame {
+    min-height: 1000px;
+    background-image: url(../img/96398-neon-cyberpunk-artist-artwork-digital-art-hd-4k-artstation\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;   
+}
+.diax{
+    display: inline-block;
+    padding: 100px;
+}
+.meotxe {
+    min-height: 130px;
+    background: rgba(9, 10, 38, 1);
+    border: 1px solid #502356;
+}
+.mexute{
+    min-height: 420px;
+    background: rgba(9, 10, 38, 1);
+    border: 1px solid #502356;
+
+}
+.meeqvse {
+    min-height: 80px;
+    background: rgba(9, 10, 38, 1);
+
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+}
+.damtavreba{
+    margin-top: 100px;
+}
+.aiconi{
+    margin-left: 45px;
+}
+.damtavrebai{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.damtavrebaio{
+    margin-top: 100px;
+}
+.damtavrebaii{
+    margin-top: 100px;
+}
+ul li{
+    display: block;
+}
+.esec {
+    background-color: red;
+}
+.witeli{
+    background-color: red;
+}
+
